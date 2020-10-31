@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+<head>
+<title>class selector </title>
+<style>
+h1.red
+{
+  color:red;
+  font-size:50;
+  font-family:script;
+}
+
+h1.blue
+{
+  color:cyan;
+  font-size:50;
+  font-family:arial;
+}
+
+</style>
+</head>
+<body>
+<h1 class="red">hello</h1></br>
+<h1 class="blue">how are</h1></br>
+<h3>you?</h3>
+
+</body>
+
+</html>
+
