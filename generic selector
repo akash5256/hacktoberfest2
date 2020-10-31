@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+<head>
+<title>generic selector </title>
+<style>
+.red
+{
+  color:red;
+  font-size:50;
+  font-family:script;
+}
+
+.blue
+{
+  color:cyan;
+  font-size:75;
+  font-family:arial;
+}
+
+</style>
+</head>
+<body>
+<p class="red">hello</p></br>
+<p class="blue">how are</p></br>
+<p class="blue">you?</p>
+
+</body>
+
+</html>
+
