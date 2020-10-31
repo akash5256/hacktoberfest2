@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>pseudo class</title>
+<style>
+input:focus
+{
+ background-color:cyan;
+ color:black;
+}
+
+</style>
+</head>
+<body>
+<form>
+enter something:<input type="text" name="my_text"/>
+<br/>
+<input type="submit" value="enter"/>
+
+</form>
+
+
+</body>
+
+</html>
