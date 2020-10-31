@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+
+ol{ list-style-type:decimal; color:green;  
+}
+ol ol{list-style-type:upper-alpha;  }
+ol ol ol{list-style-type:lower-roman; 
+ color:red;}
+</style>
+</head>
+<body>
+<center>
+<ol>
+<li>fruit
+    <ol>
+        <li>apple
+		    <ol>
+			    <li>vitamin a</li>
+                <li>vitamin c</li>
+             </ol>
+        </li>			 
+    </ol>
+</li>
+</ol>
+</center>
+</body>
+</html>
